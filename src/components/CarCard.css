@@ -1,0 +1,157 @@
+.car-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 0;
+    width: calc(33.33% - 20px);
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+.car-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.car-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px dotted #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.car-title {
+    flex: 1;
+    margin-left: 10px;
+}
+
+.car-title h3{
+    font-size: xx-large;
+}
+
+.car-price{
+    margin-left: 15px;
+}
+.car-year {
+    flex-shrink: 0;
+    margin-right: 30px;
+    border-style: dotted;
+    border-radius: 10px;
+    border-color: #73f0f5;
+}
+
+.car-card h3 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.car-card h4 {
+    margin: 0;
+    font-size: 16px;
+}
+
+.car-card p {
+    font-size: 14px;
+}
+
+.car-info-upper,
+.car-info-lower,
+.car-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.car-fuel{
+    margin-right: 100px;
+    margin-bottom: 40px;
+}
+.car-type{
+    margin-right: 90px;
+    margin-bottom: 40px;
+}
+
+.car-fuel,
+.car-capacity{
+    margin-top: 20px;
+}
+
+.car-capacity,
+.car-milage{
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+.car-capacity,
+.car-fuel,
+.car-milage,
+.car-type {
+    display: flex;
+    align-items: center;
+}
+
+.car-capacity,
+.car-fuel,
+.car-milage,
+.car-type {
+    display: flex;
+    align-items: center;
+}
+
+.car-capacity span,
+.car-fuel span,
+.car-milage span,
+.car-type span {
+    margin-left: 5px;
+}
+
+/* CarCard.css */
+.like,
+.btn {
+    display: flex;
+    align-items: center;
+}
+
+.heart-icon {
+    font-size: 24px;
+    /* Increase the size of the heart icon */
+    color: #2f0bf8;
+    background-color: #73f0f5;
+    /* Set the color of the heart icon */
+}
+
+.like button {
+    margin-left: 10px;
+    padding: 10px 20px;
+    border: 2px solid blue;
+    /* Change border color to blue */
+    border-radius: 50px;
+    background-color: #007bff;
+    /* Make the background transparent */
+    color: white;
+    /* Change text color to blue */
+    cursor: pointer;
+}
+
+
+.btn button {
+    margin-left: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.btn button:hover {
+    background-color: #0056b3;
+}
+.car-price p{
+    font-size: larger;
+    font-weight: bold;
+}

@@ -1,0 +1,113 @@
+
+[
+  {
+    "id": 1,
+    "image": "car1.jpg",
+    "name": "Toyota Camry",
+    "modelYear": 2022,
+    "rentPricePerMonth": 500,
+    "fuelType": "Gasoline",
+    "averageFuelConsumption": "8km / 1-litre",
+    "type": "automatic",
+    "capacity": "4 people"
+  },
+  {
+    "id": 2,
+    "image": "car2.jpg",
+    "name": "Honda Civic",
+    "modelYear": 2023,
+    "rentPricePerMonth": 480,
+    "fuelType": "Gasoline",
+    "averageFuelConsumption": "7.2km / 1-litre",
+    "type": "automatic",
+    "capacity": "4 people"
+  },
+  {
+    "id": 3,
+    "image": "car3.jpg",
+    "name": "Ford Mustang",
+    "modelYear": 2022,
+    "rentPricePerMonth": 600,
+    "fuelType": "Gasoline",
+    "averageFuelConsumption": "6.1km / 1-litre",
+    "type": "automatic",
+    "capacity": "4 people"
+  },
+  {
+    "id": 4,
+    "image": "car4.jpg",
+    "name": "Chevrolet Silverado",
+    "modelYear": 2023,
+    "rentPricePerMonth": 550,
+    "fuelType": "Diesel",
+    "averageFuelConsumption": "6.5km / 1-litre",
+    "type": "automatic",
+    "capacity": "4 people"
+  },
+  {
+    "id": 5,
+    "image": "car5.jpg",
+    "name": "Tesla Model 3",
+    "modelYear": 2023,
+    "rentPricePerMonth": 700,
+    "fuelType": "Electric",
+    "averageFuelConsumption": "N/A",
+    "type": "automatic",
+    "capacity": "4 people"
+  },
+  {
+    "id": 6,
+    "image": "car6.jpg",
+    "name": "BMW 5 Series",
+    "modelYear": 2022,
+    "rentPricePerMonth": 650,
+    "fuelType": "Gasoline",
+    "averageFuelConsumption": "6.8km / 1-litre",
+    "type": "automatic",
+    "capacity": "4 people"
+  },
+  {
+    "id": 7,
+    "image": "car7.jpg",
+    "name": "Mercedes-Benz C-Class",
+    "modelYear": 2022,
+    "rentPricePerMonth": 680,
+    "fuelType": "Gasoline",
+    "averageFuelConsumption": "N/A",
+    "type": "automatic",
+    "capacity": "4 people"
+  },
+  {
+    "id": 8,
+    "image": "car8.jpg",
+    "name": "Audi Q5",
+    "modelYear": 2023,
+    "rentPricePerMonth": 620,
+    "fuelType": "Gasoline",
+    "averageFuelConsumption": "8.5km / 1-litre",
+    "type": "automatic",
+    "capacity": "4 people"
+  },
+  {
+    "id": 9,
+    "image": "car9.jpg",
+    "name": "Hyundai Sonata",
+    "modelYear": 2023,
+    "rentPricePerMonth": 490,
+    "fuelType": "Gasoline",
+    "averageFuelConsumption": "7.8km / 1-litre",
+    "type": "automatic",
+    "capacity": "4 people"
+  },
+  {
+    "id": 10,
+    "image": "car10.jpg",
+    "name": "Kia Sportage",
+    "modelYear": 2022,
+    "rentPricePerMonth": 550,
+    "fuelType": "Gasoline",
+    "averageFuelConsumption": "9km / 1-litre",
+    "type": "automatic",
+    "capacity": "4 people"
+  }
+]
